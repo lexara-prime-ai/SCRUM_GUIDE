@@ -163,3 +163,22 @@ A **sprint retrospective** is a meeting that takes place at the end of a sprint,
 The  [**Product Goal**](https://www.scrum.org/resources/what-product-goal "What is a Product Goal?")  describes a future state of the product which can serve as a target for the Scrum Team to plan against. **The Product Goal is in the Product Backlog**. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.
 
 > _A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract._
+
+
+
+
+
+
+## What does it mean to have a cross functional development team?
+ - In a cross-functional development team members have different skill sets but are all working towards a common goal. It often includes people from different departments and from all levels of the organization
+
+## In case you receive a story in the last day of the sprint to test and you find there are defects, what will you do?
+ - Whenever your team finds an incomplete story at the end of the Sprint, simply roll that story, in its entirety, into the next Sprint. 
+
+## What is the role of a tester in Scrum?
+ - In Scrum, testers are not only responsible for finding and reporting defects. They are also advocates for quality throughout the product development lifecycle. Testers collaborate with the product owner to define and refine the user stories, acceptance criteria, and definition of done.
+
+## What is the recommended size for a Scrum Team
+ - According to the Scrum guide, any Scrum Team should be made up of 10 or fewer people. So, in a small project, you would have a Scrum team of around 5 people – 3 Developers, 1 Product Owner, and 1 Scrum Master. And in a large project, your team would consist of 9 people – 7 Developers, 1 Product Owner, and 1 Scrum Master.
+
+
